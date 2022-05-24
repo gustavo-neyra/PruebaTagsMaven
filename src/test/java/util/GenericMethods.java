@@ -174,7 +174,7 @@ public final class GenericMethods{
         }
     }
 
-    private static void DeleteFileIfExist(File file) {
+    private static void deleteFileIfExist(File file) {
         if (!file.exists()) {
             file.delete();
         }
