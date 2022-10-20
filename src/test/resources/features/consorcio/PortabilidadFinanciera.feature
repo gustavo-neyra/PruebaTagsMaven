@@ -11,9 +11,9 @@ Scenario: Ingresar portabibilidad fianciera
 	And  se selecciona portabilidad financiera
   Then se visualiza el home de portabilidad financiera
 
- @TEST_LB-554 @regression @test2
-Scenario: Ingresar a hazte cliente o Banco
-	When ingreso a portate o hazte clienteee
-	And  se selecciona hazte cliente banco
-  Then se visualiza la pantalla solicita tu plan de cuenta corriente
+# @TEST_LB-554 @regression @test2
+#Scenario: Ingresar a hazte cliente o Banco
+#	When ingreso a portate o hazte clienteee
+#	And  se selecciona hazte cliente banco
+#  Then se visualiza la pantalla solicita tu plan de cuenta corriente
 
